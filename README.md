@@ -1,3 +1,7 @@
+<p align="center">
+  <a>🇬🇧</a>
+  <a href="https://github.com/Kacianoki/.github/blob/main/README_RU.md">🇷🇺</a>
+</p>
 ![Logo](https://github.com/Kacianoki/.github/blob/main/kacianoki/Kacianoki3840x2160.png?raw=true)
 # Who are we?
 We are a team of "talented" developers creating engaging games. Our goal is to develop games for people, and all our projects will be open source and without anti-piracy systems. We believe you can pirate our games, but if you like them—please support us by purchasing.
