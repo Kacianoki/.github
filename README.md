@@ -17,6 +17,7 @@ At the moment, we don’t have any finished games, but we’ve been working hard
   <a href="https://github.com/Kacianoki/Eternal-Beta/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MPL2.0-orange"></img></a>
   <a><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKacianoki%2FEternal-Beta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></img></a>
 </p>
+
 **Eternal Beta** is an exciting RTS about hacking, where you’ll need to hack other players to become the most famous hacker on the planet. The game is interesting for both casual players and programmers due to various difficulty levels:
 
 - At the high level, you’ll have to use real vulnerabilities and analyze traffic, spoofing packets and catching opponents off guard.
