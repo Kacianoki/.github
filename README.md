@@ -11,11 +11,9 @@ We are a team of "talented" developers creating engaging games. Our goal is to d
 At the moment, we don’t have any finished games, but we’ve been working hard on the project **Eternal Beta**.
 
 ## [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta)
-![Logo](https://github.com/Kacianoki/.github/blob/main/eternal-beta/Background.png?raw=true)
 <p align="center">
   <a href="https://github.com/Kacianoki/Eternal-Beta/actions/workflows/Compatibility.yml"><img src="https://github.com/Kacianoki/Eternal-Beta/actions/workflows/Compatibility.yml/badge.svg"></a>
-  <a href="https://github.com/Kacianoki/Eternal-Beta/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MPL2.0-orange"></img></a>
-  <a><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKacianoki%2FEternal-Beta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></img></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKacianoki%2FEternal-Beta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></img>
 </p>
 
 **Eternal Beta** is an exciting RTS about hacking, where you’ll need to hack other players to become the most famous hacker on the planet. The game is interesting for both casual players and programmers due to various difficulty levels:
@@ -33,4 +31,4 @@ Although we don’t have any specific plans yet, we’re looking to release anot
 # Contact
 You can email us at: kacianoki@gmail.com.
 
-Also, join our [Discord server](https://discord.gg/VE4Y6AdgsN) to chat with our community.
+
