@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kacianoki/.github/blob/main/README.md">🇬🇧</a>
+  <a href="https://github.com/Kacianoki/.github/blob/main/profile/README.md">🇬🇧</a>
   <a>🇷🇺</a>
 </p>
 
