@@ -11,9 +11,6 @@ We are a team of "talented" developers creating engaging games. Our goal is to d
 At the moment, we don’t have any finished games, but we’ve been working hard on the project **Eternal Beta**.
 
 ## [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta)
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKacianoki%2FEternal-Beta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></img>
-</p>
 
 **Eternal Beta** is an exciting RTS about hacking, where you’ll need to hack other players to become the most famous hacker on the planet. The game is interesting for both casual players and programmers due to various difficulty levels:
 
