@@ -24,10 +24,5 @@ At the start of the game, players will have the weakest computers, but by conduc
 
 Additionally, the game features a marketplace, dynamic weather, and smart AI (we tried), which will keep you entertained.
 
-# Future Plans
-Although we don’t have any specific plans yet, we’re looking to release another game set in a laboratory deep in the ocean.
-
 # Contact
 You can email us at: kacianoki@gmail.com.
-
-
