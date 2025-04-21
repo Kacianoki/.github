@@ -21,5 +21,9 @@ At the start of the game, players will have the weakest computers, but by conduc
 
 Additionally, the game features a marketplace, dynamic weather, and smart AI (we tried), which will keep you entertained.
 
+# Social media
+
+You can find any sneak peaks and news about our games on our [discord server](https://discord.gg/ASxHRW3DMk)
+
 # Contact
 You can email us at: kacianoki@gmail.com.
