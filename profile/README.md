@@ -1,6 +1,7 @@
 <p align="center">
   <a>🇬🇧</a>
   <a href="./README_RU.md">🇷🇺</a>
+  <a href="./README_DE.md">🇩🇪</a>
 </p>
 
 ![Logo](https://github.com/Kacianoki/.github/blob/main/kacianoki/Kacianoki3840x2160.png?raw=true)
