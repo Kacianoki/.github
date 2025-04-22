@@ -7,7 +7,7 @@
 # Wer sind wir?
 Wir sind eine "talentierter" Team auf Entwickler, die spannende Spiele machen. Unser Ziel ist es, Spiele für Menschen zu entwickeln. Alle unsere Projekte sind Open Source und ohne Anti-Piraterie-Systeme. Wir glauben, dass Sie unsere Spiele raubkopieren dürfen. Wenn sie Ihnen gefallen, ihr könnt unterstützen uns wenn ihr kauft die spiele.
 
-# Current Projects
+# Aktuelle Projekte
 Im deisen Moment wir haben keine fertigen Spiele, aber wir arbeiten an Projekt **Eternal Beta**.
 
 ## [Eternal Beta](https://github.com/Kacianoki/Eternal-Beta)
