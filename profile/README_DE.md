@@ -24,4 +24,4 @@ Darüber hinaus bietet das Spiel einen Marktplatz, dynamisches Wetter und eine i
 
 # Soziale Medien
 
-Alle sneak peaks und Neuigkeiten zu unseren Spielen finden Sie auf unserem [Discord-Server](https://discord.gg/ASxHRW3DMk).
+Alle sneak peaks und Neuigkeiten zu unseren Spielen finden Sie auf unserem [Discord-Server](https://discord.gg/hredYnpchJ).
